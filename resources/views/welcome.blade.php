@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Nino
+                    Laravel Azali
                 </div>
 
                 <div class="links">
